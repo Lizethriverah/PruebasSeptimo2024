@@ -1,5 +1,9 @@
 # PruebasSeptimo2024
 
-Autor: Estefany Lizeth Rivera Hernandez 
+Estamos trabajando 
 
-Año: 2024
+Dentro del archivo 
+
+De la nueva rama
+
+Llamada Lineal
